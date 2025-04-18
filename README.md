@@ -6,5 +6,5 @@
 <h2>Wide Coverage Pc</h2>
 <img src="https://github.com/vitorandrade222/wide-coverage/blob/main/img/pc.jpg" alt="site-pc">
 <h2>Wide CoverageMobile</h2>
-<img src="https://github.com/vitorandrade222/Projeto-wide-coverage-git/blob/main/img/mobile.jpg" alt="site-mobile">
+<img src="https://github.com/vitorandrade222/wide-coverage/blob/main/img/mobile.jpg" alt="site-mobile">
 # wide-coverage
